@@ -1,0 +1,15 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "description": "Undo_redo_package",
+  "main": "solution_javascript.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
